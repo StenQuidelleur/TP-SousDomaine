@@ -27,7 +27,7 @@ Vous devez être capable de:
 
 **Exigences** :
 
-1. Créez un dictionnaire où la clé est le sous-domaine et la valeur est une liste d'URLs appartenant à ce sous-domaine.
+1. Créez un tableau où la clé est le sous-domaine et la valeur est une liste d'URLs appartenant à ce sous-domaine.
 2. Pour une URL donnée, vous devez être capable de renvoyer les URLs similaires. Par similarité, nous entendons les URLs ayant des mots communs.
 
 **Consignes** :
